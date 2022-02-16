@@ -63,12 +63,80 @@ ul {
 /* already end */
 
 /* community start */
-
-
+.community{
+  padding: 118px 0 140px;
+}
+.community__start{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.community__card{
+  display: flex;
+  justify-content: space-between;
+}
+.community__cards{
+  width: 354px;
+}
+.communty__link{
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+row-gap: 10px;
+color: #692340;
+}
+.community__tex{
+  text-align: center;
+  font-size: 50px;
+  width: 457px;
+}
+.community__cards-txt{
+  
+}
+.community__cards-par{
+font-size: 18px;
+}
+.community__cards{
+  row-gap: 10px;
+}
+.community__card{
+  padding: 119px 0 54px;
+  
+}
+.commubity__content-big{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 400px;
+  padding-top: 54px;
+}
+.communiyt__content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 30px;
+  color: 
+  #692340;
+}
+.content__href{
+  border: 1px solid #692340;
+  padding: 20px 40px;
+  text-align: center;
+  color: 
+  #692340;
+}
+.content__tex{
+  text-align: center;
+  font-size: 24px;
+  width: 217px;
+}
+.content__href{
+  font-size: 15px;
+}
 
 /* community end */
-
-/* place start */
+/* 
+place start */
 
 
 
